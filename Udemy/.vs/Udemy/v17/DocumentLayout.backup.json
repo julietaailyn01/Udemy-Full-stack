@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniel\\source\\repos\\Udemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\daniel\\source\\repos\\udemy\\accesodatos\\operaciones\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\operaciones\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|c:\\users\\daniel\\source\\repos\\udemy\\webapi\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\daniel\\source\\repos\\udemy\\accesodatos\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|c:\\users\\daniel\\source\\repos\\udemy\\webapi\\controllers\\calificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\calificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|c:\\users\\daniel\\source\\repos\\udemy\\webapi\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\daniel\\source\\repos\\udemy\\accesodatos\\operaciones\\profesordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\operaciones\\profesordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\daniel\\source\\repos\\udemy\\accesodatos\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|c:\\users\\daniel\\source\\repos\\udemy\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|c:\\users\\daniel\\source\\repos\\udemy\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\daniel\\source\\repos\\udemy\\accesodatos\\context\\proyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\context\\proyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\daniel\\source\\repos\\udemy\\accesodatos\\models\\alumnoasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\alumnoasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\daniel\\source\\repos\\udemy\\accesodatos\\operaciones\\calificaciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\operaciones\\calificaciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\daniel\\source\\repos\\udemy\\accesodatos\\models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|c:\\users\\daniel\\source\\repos\\udemy\\webapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF76648-FFC3-4CEB-B257-12590C5CA170}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\daniel\\source\\repos\\udemy\\accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443CB2B8-1D57-4D77-9C31-7C0BC751F978}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\ValuesController2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Controllers\\ValuesController2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalificacionController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\CalificacionController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CalificacionController.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\CalificacionController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CalificacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:44:36.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AlumnosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T02:47:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValuesController2.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\ValuesController2.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ValuesController2.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\ValuesController2.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ValuesController2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:18:42.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:17:08.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T16:14:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlumnoAsignatura.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Models\\AlumnoAsignatura.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Models\\AlumnoAsignatura.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Models\\AlumnoAsignatura.cs",
+              "RelativeToolTip": "AccesoDatos\\Models\\AlumnoAsignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:55:33.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Models\\Profesor.cs",
+              "RelativeToolTip": "AccesoDatos\\Models\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:31:56.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnoProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Models\\AlumnoProfesor.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Models\\AlumnoProfesor.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Models\\AlumnoProfesor.cs",
+              "RelativeToolTip": "AccesoDatos\\Models\\AlumnoProfesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T02:57:09.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfesorDAO.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Operaciones\\ProfesorDAO.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Operaciones\\ProfesorDAO.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Operaciones\\ProfesorDAO.cs",
+              "RelativeToolTip": "AccesoDatos\\Operaciones\\ProfesorDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:21:01.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Operaciones\\AlumnoDAO.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Operaciones\\AlumnoDAO.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Operaciones\\AlumnoDAO.cs",
+              "RelativeToolTip": "AccesoDatos\\Operaciones\\AlumnoDAO.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwHwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:28:05.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfesorController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\ProfesorController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProfesorController.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\Controllers\\ProfesorController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProfesorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:19:08.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalificacionDAO.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Operaciones\\CalificacionDAO.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Operaciones\\CalificacionDAO.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Operaciones\\CalificacionDAO.cs",
+              "RelativeToolTip": "AccesoDatos\\Operaciones\\CalificacionDAO.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:45:39.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T15:27:51.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProyectoContext.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Context\\ProyectoContext.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Context\\ProyectoContext.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Context\\ProyectoContext.cs",
+              "RelativeToolTip": "AccesoDatos\\Context\\ProyectoContext.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwGMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:51:13.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Models\\Calificacion.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Models\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Models\\Calificacion.cs",
+              "RelativeToolTip": "AccesoDatos\\Models\\Calificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:06:18.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\daniel\\source\\repos\\Udemy\\AccesoDatos\\Class1.cs",
+              "RelativeToolTip": "AccesoDatos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:59:57.933Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
